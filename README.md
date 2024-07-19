@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShiyaNegi
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning c++ and java
+- 🌱Learning every day
 - 📫 To reach me @siyanegi1603@gmail.com
 
 <!---
